@@ -1,5 +1,5 @@
 # MobileAppDev
-1.Login page custom toast linear layout
+1.Login page custom toast linear layout <br>
 2.Activity life cycle
 3.explicit intent using shared preference
 4.implicit intent
